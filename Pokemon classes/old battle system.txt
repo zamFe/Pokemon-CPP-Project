@@ -1,0 +1,36 @@
+/*
+        //check speed and decide who attacks first
+        //could be simplified but i haven't had time
+        if (player1->pkmn->getSPE() > player2->pkmn->getSPE()) {
+            executeAttack(*player1, *player2, p1move);
+            if(player2->pkmn->Health <= 0) {
+                displayHealth(*player1->pkmn);
+                displayHealth(*player2->pkmn);
+                std::cout << "\n" << player2->pkmn->getName() << " fainted" << std::endl;
+                break;
+            }
+            executeAttack(*player2, *player1, p2move);
+            if(player1->pkmn->Health <= 0) {
+                displayHealth(*player1->pkmn);
+                displayHealth(*player2->pkmn);
+                std::cout << "\n" << player1->pkmn->getName() << " fainted" << std::endl;
+                break;
+            }
+        } else {
+            executeAttack(*player2, *player1, p2move);
+            if(player1->pkmn->Health <= 0) {
+                displayHealth(*player1->pkmn);
+                displayHealth(*player2->pkmn);
+                std::cout << "\n" << player1->pkmn->getName() << " fainted" << std::endl;
+                break;
+            }
+            executeAttack(*player1, *player2, p1move);
+            if(player2->pkmn->Health <= 0) {
+                displayHealth(*player1->pkmn);
+                displayHealth(*player2->pkmn);
+                std::cout << "\n" << player2->pkmn->getName() << " fainted" << std::endl;
+                break;
+            }
+
+        }
+         */

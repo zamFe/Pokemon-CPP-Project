@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/felz/CLionProjects/Pokemon CPP/GameManager.cpp
+windows.h
+-
+iostream
+-
+string
+-
+sstream
+-
+iterator
+-
+algorithm
+-
+array
+-
+vector
+-
+vector
+-
+unordered_map
+-
+chrono
+-
+thread
+-
+typeinfo
+-
+GameManager.h
+D:/Users/felz/CLionProjects/Pokemon CPP/GameManager.h
+Pokemon classes/Pokemon.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Pokemon.h
+Pokemon classes/Moves.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Moves.h
+Players/Player.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/Player.h
+Players/AI.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/AI.h
+Visuals/Animations.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Visuals/Animations.h
+Visuals/Displays.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Visuals/Displays.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/GameManager.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/AI.h
+Character.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/Character.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/Character.h
+iostream
+-
+string
+-
+string.h
+-
+vector
+-
+../Pokemon classes/Pokemon.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Pokemon.h
+../Pokemon classes/Moves.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Moves.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/Player.h
+Character.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Players/Character.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Moves.h
+unordered_map
+-
+Pokemon.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Pokemon.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Pokemon.h
+array
+-
+iostream
+-
+Stats.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Stats.h
+Type.h
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Type.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Stats.h
+iostream
+-
+unordered_map
+-
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Pokemon classes/Type.h
+iostream
+-
+unordered_map
+-
+string
+-
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Visuals/Animations.h
+
+D:/Users/felz/CLionProjects/Pokemon CPP/Visuals/Displays.h
+
